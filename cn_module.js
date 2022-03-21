@@ -3,4 +3,4 @@ function oneClickDisable(el) {
     console.log(el);
 }
 
-module.exports.oneClickDisable = oneClickDisable;
+module.exports.oneClickDisable = oneClickDisable; 
